@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @H0stility
-- 👀 I’m interested in video games, guitar and badminton.
-- 🌱 I’m currently learning java, sql, web development ...
-- 📫 How to reach me jean.dubernard03@gmail.com.
+- 📫 How to reach me jean.dubernard03@gmail.com
